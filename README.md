@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Automatic-virtual-meassurement-systems](https://github.com/Timotej979/Automatic-virtual-meassurement-systems)
 
-- 🌱 I’m currently learning **React, Typescript and other... -> Going for full-stack**
+- 🌱 I’m currently learning **Golang, React, Typescript and other... -> Going for full-stack**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
