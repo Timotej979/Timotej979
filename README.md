@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=timotej979&theme=tokyonight" alt="timotej979" /></a> </p>
 
-- 🔭 I’m currently working on [Automatic-virtual-meassurement-systems](https://github.com/Timotej979/Automatic-virtual-meassurement-systems)
+- 🔭 I’m currently working on [Redundant Pihole/Unbound with GravityDB sync](https://github.com/Timotej979/Redundant-pihole-unbound-with-gravityDB-sync)
 
 - 🌱 I’m currently learning **Golang, React, Typescript and other... -> Going for full-stack**
 
