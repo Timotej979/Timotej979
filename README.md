@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Homelab](https://github.com/Timotej979/Homelab) and [Model executor runtime](https://github.com/Timotej979/Model-executor-runtime)
 
-- 🌱 I’m currently learning **Golang, React, Typescript and other... -> Going for full-stack**
+- 🌱 I’m currently learning **Golang, React, Typescript and Rust... -> Going for full-stack**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
