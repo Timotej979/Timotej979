@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=timotej979&theme=tokyonight&row=2&column=3" alt="timotej979" /></a> </p>
 
-<p align="center"> I’m currently working on [Homelab](https://github.com/Timotej979/Homelab) and [Model executor runtime](https://github.com/Timotej979/Model-executor-runtime) </p>
+<p align="center"> I’m currently working on <a href="https://github.com/Timotej979/Model-executor-runtime" Model-executor-runtime > and <a href="https://github.com/Timotej979/Biometric-systems" Biometric-systems> </p>
 
 <p align="center"> I’m currently learning **Golang, React, Typescript and Rust... -> Going for full-stack** </p>
 
