@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=timotej979&label=Profile%20views&color=0e75b6&style=flat" alt="timotej979" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=timotej979&theme=tokyonight&row=2&column=3" alt="timotej979" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=timotej979&theme=tokyonight&row=3&column=3" alt="timotej979" /></a> </p>
 
 <p align="center">I’m currently working on <a href="https://github.com/Timotej979/Model-executor-runtime">Model-executor-runtime</a> and <a href="https://github.com/Timotej979/Biometric-systems">Biometric-systems</a></p>
 
