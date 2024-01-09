@@ -21,7 +21,7 @@
 <div align="center">
     <p style="display: inline-block;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=timotej979&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="timotej979" /></p>
     <p style="display: inline-block;"><img src="https://github-readme-stats.vercel.app/api?username=timotej979&show_icons=true&theme=tokyonight&locale=en" alt="timotej979" /></p>
-    <p style="display: inline-block;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=timotej979&theme=tokyonight" alt="timotej979" /></p>
+    <p style="display: inline-block;"> [![GitHub Streak](https://streak-stats.demolab.com/?user=Timotej979&theme=tokyonight)](https://git.io/streak-stats) </p>
 </div>
 
 
