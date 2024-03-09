@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=timotej979&theme=tokyonight&row=3&column=3" alt="timotej979" /></a> </p>
 
-<p align="center">I’m currently working on <a href="https://github.com/Timotej979/Model-executor-runtime">Model-executor-runtime</a> and <a href="https://github.com/Timotej979/Biometric-systems">Biometric-systems</a></p>
+<p align="center">I’m currently working on <a href="https://github.com/Timotej979/Model-executor-runtime">Model-executor-runtime</a> and <a href="https://github.com/Timotej979/U-Net-Water-Land-Segmentation">U-Net-Water-Land-Segmentation</a></p>
 
 <p align="center">I’m currently learning <strong>Golang</strong>, <strong>React</strong>, <strong>Typescript</strong>, and <strong>Rust</strong></p>
 
