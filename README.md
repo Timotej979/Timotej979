@@ -7,7 +7,7 @@
 
 <p align="center">I’m currently working on <a href="https://github.com/Timotej979/Model-executor-runtime">Model-executor-runtime</a> and <a href="https://github.com/Timotej979/U-Net-Water-Land-Segmentation">U-Net-Water-Land-Segmentation</a></p>
 
-<p align="center">I’m currently learning <strong>Golang</strong>, <strong>React</strong>, <strong>Typescript</strong>, and <strong>Rust</strong></p>
+<p align="center">I’m currently learning <strong>Golang</strong>, <strong>React</strong>, <strong>Typescript</strong>, and <strong>Rust</strong></p>, done lots of <strong>Docker/Compose</strong> so currently migrating some projects to K8S using <strong>StackGres</strong> as a redundant Postgres DB instance system with observability.
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
