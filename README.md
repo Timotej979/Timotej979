@@ -17,10 +17,10 @@
 
 <h3 align="center">Skills and Tools</h3>
 <!-- Container for the grid -->
-<table style="width: 100%; table-layout: fixed;">
+<table width="100%"; table-layout: fixed;">
   <tr>
     <!-- Programming Languages -->
-    <td style="width: 25%; vertical-align: top;">
+    <td width="25%"; vertical-align: top;">
       <h4 align="center">Programming Languages</h4>
       <div align="center">
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -30,7 +30,7 @@
       </div>
     </td>
     <!-- Backend Development -->
-    <td style="width: 25%; vertical-align: top;">
+    <td width="25%"; vertical-align: top;">
       <h4 align="center">Backend Development</h4>
       <div align="center">
         <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
@@ -40,7 +40,7 @@
       </div>
     </td>
     <!-- Frontend Development -->
-    <td style="width: 25%; vertical-align: top;">
+    <td width="25%"; vertical-align: top;">
       <h4 align="center">Frontend Development</h4>
       <div align="center">
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -50,7 +50,7 @@
       </div>
     </td>
     <!-- Mobile Development -->
-    <td style="width: 25%; vertical-align: top;">
+    <td width="25%"; vertical-align: top;">
       <h4 align="center">Mobile Development</h4>
       <div align="center">
         <a href="https://developer.android.com" target="_blank" rel="noreferrer">
