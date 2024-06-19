@@ -184,7 +184,7 @@
       </div>
       <div align="center">
         <a href="https://supabase.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://user-images.githubusercontent.com/8291514/213727225-56186826-bee8-43b5-9b15-86e839d89393.png" alt="surrealdb" width="120" height="80"/> 
+          <img src="https://user-images.githubusercontent.com/8291514/213727225-56186826-bee8-43b5-9b15-86e839d89393.png" alt="surrealdb" width="120" height="60"/> 
         </a>
       </div>
     </td>
