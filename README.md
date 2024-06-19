@@ -17,9 +17,8 @@
 
 <h3 align="center">Skills and Tools</h3>
 
-<p align="center">
 <!-- Container for the grid -->
-<table width="100%"; table-layout: fixed;">
+<table width="100%";align="center"; table-layout: fixed;">
   <tr>
     <!-- Programming Languages -->
     <td width="25%"; vertical-align: top;">
@@ -63,8 +62,6 @@
     </td>
   </tr>
 </table>
-</p>
-
 
 
 
