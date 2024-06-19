@@ -279,12 +279,45 @@
         </a>
       </div>
     </td>
-
-    
   </tr> 
-
-    
-  
+  <tr>
+    <!-- Game Engines -->
+    <td width="25%"; vertical-align: top;">
+      <h4 align="center">Game Engines</h4>
+      <div align="center">
+        <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
+        </a> 
+        <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> 
+          <img src="https://github.com/godotengine/godot/blob/master/icon.svg" alt="godot" width="40" height="40"/> 
+        </a> 
+      </div>
+    </td>
+    <!-- Automation -->
+    <td width="25%"; vertical-align: top;">
+      <h4 align="center">Automation</h4>
+      <div align="center">
+        <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> 
+        </a>
+        <a href="https://www.home-assistant.io/" target="_blank" rel="noreferrer"> 
+          <img src="https://community-assets.home-assistant.io/original/4X/7/a/c/7acb0979ef6551aafb6cbce0892c3ca6946afbe2.png" alt="home-assistant" width="40" height="40"/> 
+        </a>
+      </div>
+    </td>
+    <!-- Other -->
+    <td width="25%"; vertical-align: top;">
+      <h4 align="center">Other</h4>
+      <div align="center">
+        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+        </a>
+        <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
+          <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
+        </a>
+      </div>
+    </td>
+  </tr> 
 </table>
 </div>
 
