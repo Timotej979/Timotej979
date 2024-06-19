@@ -52,6 +52,8 @@
         <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> 
           <img src="https://www.rust-lang.org/logos/rust-logo-blk.svg" alt="rust" width="40" height="40"/> 
         </a>
+      </div>
+      <div align="center">
         <a href="https://golang.org" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
         </a>
@@ -67,10 +69,6 @@
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
         </a>
-        
-
-        
-        <!-- Add more logos here -->
       </div>
     </td>
     <!-- Backend Development -->
