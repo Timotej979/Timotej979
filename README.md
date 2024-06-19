@@ -46,27 +46,29 @@
         <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
         </a>
+      </div>
+      <div align="center">
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
         </a>
-      </div>
-      <div align="center">
         <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> 
           <img src="https://www.rust-lang.org/logos/rust-logo-blk.svg" alt="rust" width="40" height="40"/> 
         </a>
         <a href="https://golang.org" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
         </a>
-        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-        </a>
+      </div>
+      <div align="center">
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
         </a>
-      </div>
-      <div align="center">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+        </a>
+      </div>
+      <div align="center">
+        <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
         </a>
         <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
@@ -80,7 +82,23 @@
         <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
         </a>
-        <!-- Add more logos here -->
+        <a href="https://gofiber.io/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo.svg" alt="go-fiber" width="60" height="40"/>
+        </a>
+        <a href="https://gin-gonic.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="go-gin" width="40" height="40"/>
+        </a>
+      </div>
+      <div align="center">
+        <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+        </a> 
+        <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+          <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
+        </a>
+        <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> 
+        </a>
       </div>
     </td>
     <!-- Frontend Development -->
@@ -89,6 +107,9 @@
       <div align="center">
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+        </a>
+        <a href="https://angular.io" target="_blank" rel="noreferrer">
+          <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
         </a>
         <!-- Add more logos here -->
       </div>
