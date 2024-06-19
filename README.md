@@ -17,6 +17,7 @@
 
 <h3 align="center">Skills and Tools</h3>
 
+<div align="center">
 <!-- Container for the grid -->
 <table width="100%";align="center"; table-layout: fixed;">
   <tr>
@@ -62,7 +63,7 @@
     </td>
   </tr>
 </table>
-
+</div>
 
 
 <div align="center">
