@@ -343,7 +343,3 @@
     <p style="display: inline-block;"><img src="https://github-readme-stats.vercel.app/api?username=timotej979&show_icons=true&theme=tokyonight&locale=en" /></p>
     <p style="display: inline-block;"><img src="https://streak-stats.demolab.com/?user=Timotej979&theme=tokyonight" /></p>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Timotej979/Timotej979/output/snake.svg" alt="Snake animation" />
