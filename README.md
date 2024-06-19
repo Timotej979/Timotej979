@@ -305,6 +305,21 @@
         </a>
       </div>
     </td>
+    <!-- Hardware -->
+    <td width="25%"; vertical-align: top;">
+      <h4 align="center">Hardware</h4>
+      <div align="center">
+        <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
+          <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
+        </a>
+        <a href="https://www.espressif.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://avatars.githubusercontent.com/u/9460735?s=200&v=4" alt="esp32/8266" width="40" height="40"/> 
+        </a>
+        <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> 
+          <img src="https://avatars.githubusercontent.com/u/1294177?s=200&v=4" alt="raspberrypi" width="40" height="40"/> 
+        </a>
+      </div>
+    </td>
     <!-- Other -->
     <td width="25%"; vertical-align: top;">
       <h4 align="center">Other</h4>
@@ -312,8 +327,8 @@
         <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
         </a>
-        <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-          <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
         </a>
       </div>
     </td>
