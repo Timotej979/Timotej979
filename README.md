@@ -19,7 +19,6 @@
 <!-- Container for the grid -->
 <table style="width: 100%; table-layout: fixed;">
   <tr>
-
     <!-- Programming Languages -->
     <td style="width: 25%; vertical-align: top;">
       <h4 align="center">Programming Languages</h4>
@@ -30,7 +29,6 @@
         <!-- Add more logos here -->
       </div>
     </td>
-
     <!-- Backend Development -->
     <td style="width: 25%; vertical-align: top;">
       <h4 align="center">Backend Development</h4>
@@ -41,7 +39,6 @@
         <!-- Add more logos here -->
       </div>
     </td>
-
     <!-- Frontend Development -->
     <td style="width: 25%; vertical-align: top;">
       <h4 align="center">Frontend Development</h4>
@@ -52,7 +49,6 @@
         <!-- Add more logos here -->
       </div>
     </td>
-
     <!-- Mobile Development -->
     <td style="width: 25%; vertical-align: top;">
       <h4 align="center">Mobile Development</h4>
@@ -63,7 +59,6 @@
         <!-- Add more logos here -->
       </div>
     </td>
-
   </tr>
 </table>
 
