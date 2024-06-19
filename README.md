@@ -188,6 +188,29 @@
         </a>
       </div>
     </td>
+    <!-- DevOps -->
+    <td width="25%"; vertical-align: top;">
+      <h4 align="center">DevOps</h4>
+      <div align="center">
+        <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+        </a>
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+        </a>
+        <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
+          <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
+        </a>
+      </div>
+      <div align="center">
+        <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
+        </a>
+        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+          <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+        </a>
+      </div>
+    </td>
     
   </tr>
 </table>
