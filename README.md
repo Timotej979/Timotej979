@@ -76,32 +76,6 @@
         </a>
       </div>
     </td>
-    <!-- Backend Development -->
-    <td width="25%"; vertical-align: top;">
-      <h4 align="center">Backend Development</h4>
-      <div align="center">
-        <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-        </a>
-        <a href="https://gofiber.io/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo.svg" alt="go-fiber" width="60" height="40"/>
-        </a>
-        <a href="https://gin-gonic.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="go-gin" width="40" height="40"/>
-        </a>
-      </div>
-      <div align="center">
-        <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-        </a> 
-        <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-          <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
-        </a>
-        <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://nestjs.com/img/logo-small.svg" alt="nestjs" width="40" height="40"/> 
-        </a>
-      </div>
-    </td>
     <!-- Frontend Development -->
     <td width="25%"; vertical-align: top;">
       <h4 align="center">Frontend Development</h4>
@@ -125,6 +99,32 @@
         </a>
       </div>
     </td>
+    <!-- Backend Development -->
+    <td width="25%"; vertical-align: top;">
+      <h4 align="center">Backend  Development</h4>
+      <div align="center">
+        <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+        </a>
+        <a href="https://gofiber.io/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/img/logo.svg" alt="go-fiber" width="60" height="40"/>
+        </a>
+        <a href="https://gin-gonic.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="go-gin" width="40" height="40"/>
+        </a>
+      </div>
+      <div align="center">
+        <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+        </a> 
+        <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+          <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
+        </a>
+        <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://nestjs.com/img/logo-small.svg" alt="nestjs" width="40" height="40"/> 
+        </a>
+      </div>
+    </td>
     <!-- Mobile Development -->
     <td width="25%"; vertical-align: top;">
       <h4 align="center">Mobile Development</h4>
@@ -142,7 +142,7 @@
   <tr>
     <!-- AI/ML Development -->
     <td width="25%"; vertical-align: top;">
-      <h4 align="center">AI/ML Development</h4>
+      <h4 align="center">AI/ML</h4>
       <div align="center">
         <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
           <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
@@ -160,10 +160,32 @@
         </a>
       </div>
     </td>
-
-
-
-
+    <!-- Databases -->
+    <td width="25%"; vertical-align: top;">
+      <h4 align="center">Databases</h4>
+      <div align="center">
+        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+        </a>
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+        </a>
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+        </a>
+        <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
+          <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
+        </a>
+      </div>
+      <div align="center">
+        <a href="https://supabase.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://user-images.githubusercontent.com/8291514/213727234-cda046d6-28c6-491a-b284-b86c5cede25d.png" alt="surrealdb" width="60" height="40"/> 
+        </a>
+        <a href="https://surrealdb.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://github.com/surrealdb/surrealdb/blob/main/img/icon.png" alt="surrealdb" width="40" height="40"/> 
+        </a>
+      </div>
+    </td>
     
   </tr>
 </table>
