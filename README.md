@@ -237,6 +237,24 @@
         </a>
       </div>
     </td>
+    <!-- Testing -->
+    <td width="25%"; vertical-align: top;">
+      <h4 align="center">Testing</h4>
+      <div align="center">
+        <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
+          <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
+        </a>
+        <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
+        </a>
+        <a href="https://testcontainers.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://avatars.githubusercontent.com/u/13393021?s=280&v=4" alt="testcontainers" width="40" height="40"/> 
+        </a>
+      </div>
+    </td>
+
+
+    
   </tr> 
 
     
