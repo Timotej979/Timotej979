@@ -32,6 +32,7 @@
 <div align="center">
 <!-- Container for the grid -->
 <table width="100%";align="center"; table-layout: fixed;">
+  <!-- First Row -->
   <tr>
     <!-- Programming Languages -->
     <td width="25%"; vertical-align: top;">
@@ -131,12 +132,39 @@
         <a href="https://developer.android.com" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
         </a>
-        
-
-        
-        <!-- Add more logos here -->
+        <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+          <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
+        </a>
       </div>
     </td>
+  </tr>
+  <!-- Second Row -->
+  <tr>
+    <!-- AI/ML Development -->
+    <td width="25%"; vertical-align: top;">
+      <h4 align="center">AI/ML Development</h4>
+      <div align="center">
+        <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+          <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+        </a>
+        <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
+          <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
+        </a>
+        <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+        </a>
+      </div>
+      <div align="center">
+        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+          <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+        </a>
+      </div>
+    </td>
+
+
+
+
+    
   </tr>
 </table>
 </div>
