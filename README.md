@@ -211,8 +211,36 @@
         </a>
       </div>
     </td>
-    
+    <!-- BaaS -->
+    <td width="25%"; vertical-align: top;">
+      <h4 align="center">Backend as a Service (BaaS)</h4>
+      <div align="center">
+        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+        </a>
+        <a href="https://supabase.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://user-images.githubusercontent.com/8291514/213727225-56186826-bee8-43b5-9b15-86e839d89393.png" alt="surrealdb" width="120" height="60"/> 
+        </a>
+      </div>
+    </td>
   </tr>
+  <tr>
+    <!-- Frameworks -->
+    <td width="25%"; vertical-align: top;">
+      <h4 align="center">Frameworks</h4>
+      <div align="center">
+        <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+        </a>
+        <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fast-api" width="80" height="40"/> 
+        </a>
+      </div>
+    </td>
+  </tr> 
+
+    
+  
 </table>
 </div>
 
