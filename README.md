@@ -178,11 +178,13 @@
         <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
           <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
         </a>
-        <a href="https://supabase.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://user-images.githubusercontent.com/8291514/213727234-cda046d6-28c6-491a-b284-b86c5cede25d.png" alt="surrealdb" width="80" height="40"/> 
-        </a>
         <a href="https://surrealdb.com/" target="_blank" rel="noreferrer"> 
           <img src="https://github.com/surrealdb/surrealdb/blob/main/img/icon.png" alt="surrealdb" width="40" height="40"/> 
+        </a>
+      </div>
+      <div align="center">
+        <a href="https://supabase.com/" target="_blank" rel="noreferrer"> 
+          <img src="https://user-images.githubusercontent.com/8291514/213727234-cda046d6-28c6-491a-b284-b86c5cede25d.png" alt="surrealdb" width="120" height="60"/> 
         </a>
       </div>
     </td>
