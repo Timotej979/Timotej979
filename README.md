@@ -341,5 +341,5 @@
 <div align="center">
     <p style="display: inline-block;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=timotej979&show_icons=true&theme=tokyonight&locale=en&layout=compact" /></p>
     <p style="display: inline-block;"><img src="https://github-readme-stats.vercel.app/api?username=timotej979&show_icons=true&theme=tokyonight&locale=en" /></p>
-    <p style="display: inline-block;"><img src="https://streak-stats.demolab.com/?user=Timotej979&theme=tokyonight" /></p>
+    <p style="display: inline-block;"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Timotej979&theme=tokyonight" alt="GitHub Streak" /></a></p>
 </div>
