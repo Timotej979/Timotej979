@@ -11,12 +11,12 @@
 
 ###
 
-<p align="center">I’m currently working on <a href="https://github.com/Timotej979/Model-executor-runtime">Model-executor-runtime</a> and <a href="https://github.com/Timotej979/U-Net-Water-Land-Segmentation">U-Net-Water-Land-Segmentation</a> and migrating various projects to K8S</p>
+<p align="center">I’m currently working on <a href="https://github.com/Timotej979/Homelab-infrastructure-talos">Homelab infrastructure Talos (Golden image pipeline)</a>, <a href="https://github.com/Timotej979/Homelab-infrastructure-terragrunt">Homelab infrastructure Terragrunt</a>, <a href="https://github.com/Timotej979/Homelab-infrastructure-terraform">Homelab infrastructure Terraform</a>, <a href="https://github.com/Timotej979/Homelab-infrastructure-nix">Homelab infrastructure NixOS</a> and migrating various projects to K8S</p>
 
 ###
 
-<p align="center">I’m currently learning <strong>Golang</strong>, <strong>React</strong>, <strong>Typescript</strong>, and <strong>Rust</strong></p>
-<p align="center">Done lots of <strong>Docker/Compose</strong> so currently migrating some projects to K8S using <strong>StackGres</strong> as a redundant Postgres DB instance system with observability.</p>
+<p align="center">I’m currently learning <strong>Terraform</strong>, <strong>Ansible</strong>, <strong>AWS</strong>, <strong>Golang</strong>, <strong>React</strong>, <strong>Typescript</strong>, and <strong>Rust</strong></p>
+<p align="center">Done lots of <strong>Docker/Compose</strong> so currently migrating some projects to K8S.</p>
 
 ###
 
