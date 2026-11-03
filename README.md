@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Timotej979</h1>
-<h3 align="center">DevOps/Infrastructure engineer</h3>
+<h3 align="center">DevOps / SRE / Infrastructure Engineer</h3>
 
 ###
 
